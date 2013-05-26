@@ -1,7 +1,5 @@
-1. readline的实现
-
+1. 从一个文件readline的实现
 
 2. feof 和 EOF的使用
 
-
-3. 
+3. uppdercase和lowercase
